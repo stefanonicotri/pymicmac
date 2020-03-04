@@ -18,7 +18,7 @@ setup(
     packages=['pymicmac', 'pymicmac.logsparser', 'pymicmac.logsplotter', 'pymicmac.noodles',
               'pymicmac.workflow', 'pymicmac.workflow.distributed_tapioca', 'pymicmac.workflow.distributed_matching', ],
     license='',
-    long_description=open('README.md').read(),
+    #long_description=open('README.md').read(),
     author='Oscar Martinez-Rubi',
     author_email='o.rubi@esciencecenter.nl',
     url='https://github.com/ImproPhoto/pymicmac',
